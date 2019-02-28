@@ -4,6 +4,7 @@ cob\_scan\_unifier
 General description
 ---------------------
 This package implements a node that unifies scan messages from a given numer of laser scanners
+合并多个scan为一个scan
 
 Node: scan\_unifier\_node
 ---------------------
